@@ -8,3 +8,4 @@ spec:
   ports:
     - name: nginx
       port: 80
+  type: LoadBalancer
